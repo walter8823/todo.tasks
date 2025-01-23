@@ -1,0 +1,14 @@
+{
+  "name": "todo-tasks",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "walter marin",
+  "license": "ISC",
+  "description": "API RESTful whit Node.js and express",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
